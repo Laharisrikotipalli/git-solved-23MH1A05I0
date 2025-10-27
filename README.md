@@ -8,7 +8,6 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - **Student**: Kotipalli Lahari Sri
 - **Student ID**: 23MH1A05I0
 
-
 ## Features
 
 ### Core Features
@@ -30,19 +29,17 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Enhanced logging
 - Mock external APIs
 
----
+
 
 ## ⚡ Quick Start (Windows)
 
-### Production Mode
-#### command
+### 🏭 Production Mode
 
+```bash
 set DEPLOY_ENV=production
-scripts/deploy.sh
+scripts\deploy.sh
 
-### Development Mode
-export NODE_ENV=development
+###evelopment mode
+set NODE_ENV=development
 npm install
 npm run dev
-
-
