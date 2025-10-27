@@ -1,4 +1,5 @@
-* 3eaf6e0 (HEAD -> main, origin/main) docs: Add changelog
+* 1b07cfa (HEAD -> main, origin/main) docs: Add final project artifacts
+* 3eaf6e0 docs: Add changelog
 * f02b79e docs: Finalize GIT_JOURNEY.md and complete challenge
 | * 117e9a0 (origin/feature/another-feature) docs: Update README
 |/  
