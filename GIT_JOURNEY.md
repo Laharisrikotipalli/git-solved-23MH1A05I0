@@ -124,5 +124,5 @@ confident handling conflicts in real projects.
 
 The hands-on practice with all Git commands (especially rebase and 
 cherry-pick) was invaluable. I understand the difference between merge 
-and rebase, and when to use each. Most importantly, I learned that 
-git reflog is a lifesaver!
+and rebase, and when to use each. My biggest takeaway is the confidence that git reflog provides; it’s the ultimate safety net, making reset, revert, and rebase operations far less intimidating.
+Most importantly, I learned that git reflog is a lifesaver!
