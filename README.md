@@ -35,8 +35,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ```bash
 export DEPLOY_ENV=production
 ./scripts/deploy.sh
- ###development mode
- export NODE_ENV=development
+export NODE_ENV=development
 npm install
 npm run dev
 # git add README.md
