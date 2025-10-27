@@ -35,9 +35,10 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## ⚡ Quick Start (Windows)
 
 ### Production Mode
-```bash
-export DEPLOY_ENV=production
-./scripts/deploy.sh
+#### command
+
+set DEPLOY_ENV=production
+scripts/deploy.sh
 
 ### Development Mode
 export NODE_ENV=development
