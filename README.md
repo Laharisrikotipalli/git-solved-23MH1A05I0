@@ -7,6 +7,9 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - **Environments**: Production & Development
 - **Student**: [Kotipalli Lahari Sri]
 - **Student ID**: [23MH1A05I0]
+=======
+- **Student**: Kotipalli Lahari Sri
+- **Student ID**: 23MH1A05I0
 
 ## Features
 
@@ -23,24 +26,27 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Scheduled backups
 
 ### Development Features (Beta)
--  Docker Compose integration
--  Hot reload enabled
--  Debug mode active
--  Enhanced logging
--  Mock external APIs
+- Docker Compose integration
+- Hot reload enabled
+- Debug mode active
+- Enhanced logging
+- Mock external APIs
 
 ## Quick Start
 
-### Production Mode
 ```bash
-export DEPLOY_ENV=production
-./scripts/deploy.sh
+# Resolve any merge conflicts
+git add .
+git commit -m "Resolved merge conflicts"
+
+# Verify all conflicts are resolved
+git status   # should show clean working tree
+
+# Development Mode
 export NODE_ENV=development
 npm install
 npm run dev
-# git add README.md
-``# Step 2.10: Verify All Conflicts Resolved
 
-```bash
-# Check status - should show no conflicts remaining
-git status
+# Production Mode
+export DEPLOY_ENV=production
+./scripts/deploy.sh
