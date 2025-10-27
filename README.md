@@ -7,7 +7,6 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - **Environments**: Production & Development
 - **Student**: [Kotipalli Lahari Sri]
 - **Student ID**: [23MH1A05I0]
-=======
 - **Student**: Kotipalli Lahari Sri
 - **Student ID**: 23MH1A05I0
 
@@ -34,10 +33,12 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Quick Start
 
+### 💻 Development Mode
 ```bash
-# Resolve any merge conflicts
-git add .
-git commit -m "Resolved merge conflicts"
+export NODE_ENV=development
+npm install
+npm run dev
+
 
 # Verify all conflicts are resolved
 git status   # should show clean working tree
