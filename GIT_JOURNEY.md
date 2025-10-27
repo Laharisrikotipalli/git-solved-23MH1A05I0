@@ -1,11 +1,11 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: [Kotipalli Lahari Sri]
-- Student ID: [23MH1A05I0]
+- Name: Kotipalli Lahari Sri
+- Student ID: 23MH1A05I0
 - Repository: [https://github.com/Laharisrikotipalli/git-solved-23MH1A05I0]
-- Date Started: [26-10-2025]
-- Date Completed: [27-10-2025]
+- Date Started: 26-10-2025
+- Date Completed: 27-10-2025
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
