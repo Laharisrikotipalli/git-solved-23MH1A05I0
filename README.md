@@ -40,7 +40,6 @@ set DEPLOY_ENV=production
 scripts\deploy.sh
 
 ### Development mode
-
 set NODE_ENV=development
 npm install
 npm run dev
