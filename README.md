@@ -31,15 +31,16 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 
 
-## ⚡ Quick Start (Windows)
+##  Quick Start (Windows)
 
-### 🏭 Production Mode
+### Production Mode
 
 ```bash
 set DEPLOY_ENV=production
 scripts\deploy.sh
 
-###evelopment mode
+### Development mode
+
 set NODE_ENV=development
 npm install
 npm run dev
