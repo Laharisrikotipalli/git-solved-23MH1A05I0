@@ -31,7 +31,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 
 
-##  Quick Start (Windows)
+##  Quick Start
 
 ### Production Mode
 
